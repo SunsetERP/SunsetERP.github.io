@@ -3,9 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="SunsetERP"
                  start-page="starter.md">
 
     <toc-element topic="starter.md"/>
     <toc-element topic="Installation-guide.md"/>
+    <toc-element topic="Quickstart.md"/>
 </instance-profile>
